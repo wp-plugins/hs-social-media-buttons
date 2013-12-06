@@ -12,11 +12,11 @@ Add Social Media Buttons to your Site
 
 == Description ==
 
-Embed the customised Social Media Buttons, like – Facebook, Twitter, YouTube, Google Plus and Pinterest to your Website. 
+Embed the customised Social Media Buttons, like Facebook, Twitter, YouTube, Google Plus and Pinterest to your Website. 
 
 Add Simple Social Buttons to your website and multiply your business with these Social Sharing buttons.
 This is the best Wordpress plugin as it can be customised and placed to the: Left or right side of the page and with customisable top margins.
-Try to make the best though Social Sharing Buttons, like – Facebook, Twitter, YouTube, Google Plus and Pintrest and display your content to millions with Simple Social Buttons. 
+Try to make the best though Social Sharing Buttons, like Facebook, Twitter, YouTube, Google Plus and Pintrest and display your content to millions with Simple Social Buttons. 
 
 
 = Features =
