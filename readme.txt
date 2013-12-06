@@ -1,5 +1,5 @@
 === HS Social Media Buttons ===
-Contributors: Helios Solutions 
+Contributors: heliossolutions
 Tags: best Wordpress plugin, Social Media, Buttons, follow me, Social sharing
 Sharing, Social , Social media
 Requires at least: 3.0
