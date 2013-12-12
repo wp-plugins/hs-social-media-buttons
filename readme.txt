@@ -51,7 +51,7 @@ Yes, we can surely help you through the installation process of HS social media 
 
 Yes, This plugin strictly follow wordpress coding standards. it will work with well coded theme and plugins.
 
-= Where can I gather additional support for HS Responsive Category FAQ Plugin if any issue pops-in? =
+= Where can I gather additional support for HS social media buttons Plugin if any issue pops-in? =
 
 Please contact us at <http://www.heliossolutions.in>
 
