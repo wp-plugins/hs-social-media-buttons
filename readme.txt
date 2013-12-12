@@ -18,6 +18,9 @@ Add Simple Social Buttons to your website and multiply your business with these 
 This is the best Wordpress plugin as it can be customised and placed to the: Left or right side of the page and with customisable top margins.
 Try to make the best though Social Sharing Buttons, like Facebook, Twitter, YouTube, Google Plus and Pintrest and display your content to millions with Simple Social Buttons. 
 
+= About Helios =
+We are the dedicated group of WordPress developers focused on developing finest WordPress themes and plugins. 
+To know more about our work and projects, visit: <http://www.heliossolutions.in>
 
 = Features =
 
@@ -39,7 +42,20 @@ plugins -> Activate HS Social Media Buttons" menu in WordPress.
 
 
 == Frequently Asked Questions ==
- =no questions =
+
+= I am new to WordPress. Can you please help me in installing the HS social media buttons plugin? =
+
+Yes, we can surely help you through the installation process of HS social media buttons plugin. Kindly visit this link [Helios Solutions](http://wordpress.org/ "Helios Solutions") for complete guidance on the installation process. Also, you can get the live assistance from our Live Chat facility.
+
+= Will this plugin work fine with my theme and other plugins? =
+
+Yes, This plugin strictly follow wordpress coding standards. it will work with well coded theme and plugins.
+
+= Where can I gather additional support for HS Responsive Category FAQ Plugin if any issue pops-in? =
+
+Please contact us at <http://www.heliossolutions.in>
+
+Answer to foo bar dilemma.
 
 == Screenshots ==
 
