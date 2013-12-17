@@ -68,15 +68,15 @@ Answer to foo bar dilemma.
 == Changelog ==
 
 = 2.0.1 =
-[Added] 2 news icons added - "Mail To" and "Website".
+* [Added] 2 news icons added - "Mail To" and "Website".
 
 = 1.0 =
- *Initial launch of the plugin
+* Initial launch of the plugin
 
 == Upgrade Notice ==
 
 = 2.0.1 =
-  Added new features for "Add mail to" and "website" icon.
+* Added new features for "Add mail to" and "website" icon.
   
 = 1.0 =
-  This is the first version of the plugin.
+* This is the first version of the plugin.
