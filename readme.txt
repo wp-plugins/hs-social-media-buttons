@@ -12,7 +12,7 @@ Add Social Media Buttons to your Site
 
 == Description ==
 
-Embed the customised Social Media Buttons, like Facebook, Twitter, YouTube, Google Plus and Pinterest to your Website. 
+Embed the customised Social Media Buttons, like – Facebook, Twitter, YouTube, Google Plus, Linkedin and Pinterest to your Website. 
 
 Add Simple Social Buttons to your website and multiply your business with these Social Sharing buttons.
 This is the best Wordpress plugin as it can be customised and placed to the: Left or right side of the page and with customisable top margins.
@@ -24,9 +24,10 @@ To know more about our work and projects, visit: <http://www.heliossolutions.in>
 
 = Features =
 
-- Social Media buttons like facebook, google plus, twitter etc.
+- Social Media buttons like facebook, google plus, twitter, linkedin, pinterest, youtube.
+- Now You can add "Mail to" and "Link to Your Website" icons.
 - Place it on left or right side of your site.
-- Select Differnt 'Effects' for Social Buttons.
+- Select Different 'Effects' for Social Buttons.
 - User can easily reach to your social media page.
 
 
@@ -66,9 +67,16 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 2.0.1 =
+[Added] 2 news icons added - "Mail To" and "Website".
+
 = 1.0 =
  *Initial launch of the plugin
 
 == Upgrade Notice ==
- = 1.0 =
+
+= 2.0.1 =
+  Added new features for "Add mail to" and "website" icon.
+  
+= 1.0 =
   This is the first version of the plugin.

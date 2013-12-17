@@ -4,7 +4,7 @@
  * Plugin Name: HS Social Media Buttons
  * Plugin URI: http://heliossolutions.in/
  * Description: HS Social Media Buttons plugin adds social media buttons to your site.
- * Version: 1.0
+ * Version: 2.0.1
  * Author: Helios Solutions
  * Author URI: http://heliossolutions.in/
  */
