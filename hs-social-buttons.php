@@ -4,7 +4,7 @@
  * Plugin Name: HS Social Media Buttons
  * Plugin URI: http://heliossolutions.in/
  * Description: HS Social Media Buttons plugin adds social media buttons to your site.
- * Version: 2.0.1
+ * Version: 2.0.2
  * Author: Helios Solutions
  * Author URI: http://heliossolutions.in/
  */
@@ -53,6 +53,10 @@ function hssocial_badges_options_page() {
             $hssocial_google = esc_html($_POST['hssocial_google']);
             $hssocial_twitter = esc_html($_POST['hssocial_twitter']);
             $hssocial_pintrest = esc_html($_POST['hssocial_pintrest']);
+			$hssocial_ur_web = esc_html($_POST['hssocial_ur_web']);
+			$hssocial_mail = esc_html($_POST['hssocial_mail']);
+			$hssocial_instagram = esc_html($_POST['hssocial_instagram']);
+			$hssocial_flickr = esc_html($_POST['hssocial_flickr']);
             $pos_lr = esc_html($_POST['pos_lr']);
             $top_px = esc_html($_POST['top_px']);
 			$effect_bt = esc_html($_POST['effect_bt']);
@@ -62,6 +66,10 @@ function hssocial_badges_options_page() {
             $options['hssocial_twitter'] = $hssocial_twitter;
             $options['hssocial_pintrest'] = $hssocial_pintrest;
             $options['hssocial_google'] = $hssocial_google;
+			$options['hssocial_ur_web'] = $hssocial_ur_web;
+			$options['hssocial_mail'] = $hssocial_mail;
+			$options['hssocial_instagram'] = $hssocial_instagram;
+			$options['hssocial_flickr'] = $hssocial_flickr;
             $options['pos_lr'] = $pos_lr;
             $options['top_px'] = $top_px;
 			$options['effect_bt'] = $effect_bt;
@@ -81,6 +89,10 @@ function hssocial_badges_options_page() {
         $hssocial_google = $options['hssocial_google'];
         $hssocial_pintrest = $options['hssocial_pintrest'];
         $hssocial_youtube = $options['hssocial_youtube'];
+		$hssocial_ur_web = $options['hssocial_ur_web'];
+		$hssocial_mail = $options['hssocial_mail'];
+		$hssocial_instagram = $options['hssocial_instagram'];
+		$hssocial_flickr = $options['hssocial_flickr'];
         $pos_lr = $options['pos_lr'];
         $top_px = $options['top_px'];
 		$effect_bt = $options['effect_bt'];

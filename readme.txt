@@ -6,7 +6,7 @@ Requires at least: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 Tested up to: 3.8
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 
 Add Social Media Buttons to your Site
 
@@ -24,7 +24,7 @@ To know more about our work and projects, visit: <http://www.heliossolutions.in>
 
 = Features =
 
-- Social Media buttons like facebook, google plus, twitter, linkedin, pinterest, youtube.
+- Social Media buttons like facebook, google plus, twitter, linkedin, pinterest, youtube, flickr, instagram.
 - Now You can add "Mail to" and "Link to Your Website" icons.
 - Place it on left or right side of your site.
 - Select Different 'Effects' for Social Buttons.
@@ -34,11 +34,7 @@ To know more about our work and projects, visit: <http://www.heliossolutions.in>
 == Installation ==
 
 1. Upload the plugin folder `HS Social Media Buttons` to the `/wp-content/plugins/` directory.
-
-2. Activate the plugin through the "Plugins -> Installed 
-
-plugins -> Activate HS Social Media Buttons" menu in WordPress.
-
+2. Activate the plugin through the "Plugins -> Installed plugins -> Activate HS Social Media Buttons" menu in WordPress.
 3. Find HS Social Media Buttons Plugin in -> Settings options.
 
 
@@ -67,6 +63,10 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 2.0.2 =
+* [Added] 2 news icons added - "Flickr" and "Instagram".
+* Improved performance with image sprite.
+
 = 2.0.1 =
 * [Added] 2 news icons added - "Mail To" and "Website".
 
@@ -74,6 +74,10 @@ Answer to foo bar dilemma.
 * Initial launch of the plugin
 
 == Upgrade Notice ==
+
+= 2.0.2 =
+* [Added] 2 news icons added - "Flickr" and "Instagram".
+* Improved performance with image sprite.
 
 = 2.0.1 =
 * Added new features for "Add mail to" and "website" icon.

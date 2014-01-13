@@ -6,6 +6,10 @@ $hssocial_youtube = $options['hssocial_youtube'];
 $hssocial_twitter = $options['hssocial_twitter'];
 $hssocial_google = $options['hssocial_google'];
 $hssocial_pintrest = $options['hssocial_pintrest'];
+$hssocial_ur_web = $options['hssocial_ur_web'];
+$hssocial_mail = $options['hssocial_mail'];
+$hssocial_instagram = $options['hssocial_instagram'];
+$hssocial_flickr = $options['hssocial_flickr'];
 $pos_lr = $options['pos_lr'];
 $top_px = $options['top_px'];
 $effect_bt = $options['effect_bt'];
@@ -54,23 +58,51 @@ if ($is_opera == "yes") : ?>
         </a>
     <?php endif; ?>
     <?php if ($hssocial_youtube): ?>
-        <a class="socialitems" target="_blank" href="<?php echo $hssocial_youtube; ?>" id="youtube-btn">
+        <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_youtube); ?>" id="youtube-btn">
             <span  class="social-icon">
                 <span class="social-text">Follow via Youtube</span>
             </span>
         </a>
     <?php endif; ?>
     <?php if ($hssocial_google): ?>
-        <a class="socialitems" target="_blank" href="<?php echo $hssocial_google; ?>" id="google-btn">
+        <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_google); ?>" id="google-btn">
             <span  class="social-icon">
                 <span class="social-text">Follow via Google</span>
             </span>
         </a>
     <?php endif; ?>
     <?php if ($hssocial_pintrest): ?>
-        <a class="socialitems" target="_blank" href="<?php echo $hssocial_pintrest; ?>" id="pintrest-btn">
+        <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_pintrest); ?>" id="pintrest-btn">
             <span  class="social-icon">
                 <span class="social-text">Follow via Pintrest</span>
+            </span>
+        </a>
+    <?php endif; ?>
+	<?php if ($hssocial_instagram): ?>
+        <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_instagram); ?>" id="instagram-btn">
+            <span  class="social-icon">
+                <span class="social-text">Follow via Instagram</span>
+            </span>
+        </a>
+    <?php endif; ?>
+	<?php if ($hssocial_flickr): ?>
+        <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_flickr); ?>" id="flickr-btn">
+            <span  class="social-icon">
+                <span class="social-text">Follow via Flickr</span>
+            </span>
+        </a>
+    <?php endif; ?>
+	<?php if ($hssocial_ur_web): ?>
+        <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_ur_web); ?>" id="web-btn">
+            <span  class="social-icon">
+                <span class="social-text">Go to</span>
+            </span>
+        </a>
+    <?php endif; ?>
+	<?php if ($hssocial_mail): ?>
+        <a class="socialitems" target="_blank" href="mailto:<?php echo $hssocial_mail; ?>" id="mail-btn">
+            <span  class="social-icon">
+                <span class="social-text">Mail to</span>
             </span>
         </a>
     <?php endif; ?>

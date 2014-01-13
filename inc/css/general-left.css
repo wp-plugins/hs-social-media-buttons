@@ -35,7 +35,18 @@ text-decoration:none;
 #google-btn span {
     background-position: 12px -127px; 
 }
-
+#instagram-btn span {
+    background-position: 10px -300px; 
+}
+#flickr-btn span {
+    background-position: 10px -335px; 
+}
+#web-btn span {
+    background-position: 10px -403px; 
+}
+#mail-btn span {
+    background-position: 10px -369px; 
+}
 .social-icon {
     transition: background-color 0.4s ease-in 0s;
     -webkit-transition: background-color 0.4s ease-in 0s;
@@ -67,7 +78,19 @@ background-color: #DB4A39;
 #youtube-btn:hover .social-icon { 
 background-color: #C4302B;
 }
-#twitter-btn:hover .social-text ,#linkedin-btn:hover .social-text,#facebook-btn:hover .social-text ,#youtube-btn:hover .social-text,#pintrest-btn:hover .social-text ,#google-btn:hover .social-text { 
+#instagram-btn:hover .social-icon {
+    background-color: #D2C5B3;
+}
+#flickr-btn:hover .social-icon {
+    background-color: #E4006B;
+}
+#web-btn:hover .social-icon {
+    background-color: #000;
+}
+#mail-btn:hover .social-icon {
+    background-color: #2A056F;
+}
+#twitter-btn:hover .social-text ,#linkedin-btn:hover .social-text,#facebook-btn:hover .social-text ,#youtube-btn:hover .social-text,#pintrest-btn:hover .social-text ,#google-btn:hover .social-text,#mail-btn:hover .social-text,#web-btn:hover .social-text,#flickr-btn:hover .social-text,#instagram-btn:hover .social-text { 
 	display:inline;
 }
 .social-text {

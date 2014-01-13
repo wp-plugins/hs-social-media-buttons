@@ -74,6 +74,38 @@
                                                 <input name="hssocial_pintrest" id="hssocial_pintrest" type="text" value="" class="regular-text" />
                                             </td>
                                         </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_ur_web">Your Website URL</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_ur_web" id="hssocial_ur_web" type="text" value="" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_mail">Your Email Address</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_mail" id="hssocial_mail" type="text" value="" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_instagram">Instagram URL</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_instagram" id="hssocial_instagram" type="text" value="" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_flickr">Flickr URL</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_flickr" id="hssocial_flickr" type="text" value="" class="regular-text" />
+                                            </td>
+                                        </tr>
                                     </table>
                                     <table cellpadding="5" cellspacing="5">
                                         <tr>
@@ -181,6 +213,38 @@
                                             </td>
                                             <td>
                                                 <input name="hssocial_pintrest" id="hssocial_pintrest" type="text" value="<?php echo $hssocial_pintrest; ?>" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_ur_web">Your Website URL</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_ur_web" id="hssocial_ur_web" type="text" value="<?php echo $hssocial_ur_web; ?>" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_mail">Your Email Address</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_mail" id="hssocial_mail" type="text" value="<?php echo $hssocial_mail; ?>" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_instagram">Instagram URL</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_instagram" id="hssocial_instagram" type="text" value="<?php echo $hssocial_instagram; ?>" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_flickr">Flickr URL</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_flickr" id="hssocial_flickr" type="text" value="<?php echo $hssocial_flickr; ?>" class="regular-text" />
                                             </td>
                                         </tr>
                                     </table>
