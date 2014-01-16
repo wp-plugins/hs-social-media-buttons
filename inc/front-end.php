@@ -74,7 +74,7 @@ if ($is_opera == "yes") : ?>
     <?php if ($hssocial_pintrest): ?>
         <a class="socialitems" target="_blank" href="<?php echo esc_url($hssocial_pintrest); ?>" id="pintrest-btn">
             <span  class="social-icon">
-                <span class="social-text">Follow via Pintrest</span>
+                <span class="social-text">Follow via Pinterest</span>
             </span>
         </a>
     <?php endif; ?>
