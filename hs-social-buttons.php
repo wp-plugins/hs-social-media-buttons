@@ -4,7 +4,7 @@
  * Plugin Name: HS Social Media Buttons
  * Plugin URI: http://heliossolutions.in/
  * Description: HS Social Media Buttons plugin adds social media buttons to your site.
- * Version: 2.0.2
+ * Version: 2.0.3
  * Author: Helios Solutions
  * Author URI: http://heliossolutions.in/
  */
@@ -57,7 +57,9 @@ function hssocial_badges_options_page() {
 			$hssocial_mail = esc_html($_POST['hssocial_mail']);
 			$hssocial_instagram = esc_html($_POST['hssocial_instagram']);
 			$hssocial_flickr = esc_html($_POST['hssocial_flickr']);
-            $pos_lr = esc_html($_POST['pos_lr']);
+            $hssocial_xing = esc_html($_POST['hssocial_xing']);
+			$hssocial_tumblr = esc_html($_POST['hssocial_tumblr']);
+			$pos_lr = esc_html($_POST['pos_lr']);
             $top_px = esc_html($_POST['top_px']);
 			$effect_bt = esc_html($_POST['effect_bt']);
             $options['hssocial_facebook'] = $hssocial_facebook;
@@ -70,6 +72,8 @@ function hssocial_badges_options_page() {
 			$options['hssocial_mail'] = $hssocial_mail;
 			$options['hssocial_instagram'] = $hssocial_instagram;
 			$options['hssocial_flickr'] = $hssocial_flickr;
+			$options['hssocial_xing'] = $hssocial_xing;
+			$options['hssocial_tumblr'] = $hssocial_tumblr;
             $options['pos_lr'] = $pos_lr;
             $options['top_px'] = $top_px;
 			$options['effect_bt'] = $effect_bt;
@@ -93,6 +97,8 @@ function hssocial_badges_options_page() {
 		$hssocial_mail = $options['hssocial_mail'];
 		$hssocial_instagram = $options['hssocial_instagram'];
 		$hssocial_flickr = $options['hssocial_flickr'];
+		$hssocial_xing = $options['hssocial_xing'];
+		$hssocial_tumblr = $options['hssocial_tumblr'];
         $pos_lr = $options['pos_lr'];
         $top_px = $options['top_px'];
 		$effect_bt = $options['effect_bt'];
