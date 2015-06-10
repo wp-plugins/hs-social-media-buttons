@@ -8,6 +8,7 @@ $hssocial_google = $options['hssocial_google'];
 $hssocial_pintrest = $options['hssocial_pintrest'];
 $hssocial_ur_web = $options['hssocial_ur_web'];
 $hssocial_mail = $options['hssocial_mail'];
+$hssocial_skype = $options['hssocial_skype'];
 $hssocial_instagram = $options['hssocial_instagram'];
 $hssocial_flickr = $options['hssocial_flickr'];
 $hssocial_xing = $options['hssocial_xing'];
@@ -133,6 +134,15 @@ if($hide_mobile == 1):
                 <span class="social-text">Mail to</span>
             </span>
         </a>
+    <?php endif; ?> 
+
+	<?php if ($hssocial_skype): ?>
+        <a class="socialitems" href="skype:<?php echo $hssocial_skype; ?>?call" id="skype-btn">		
+            <span  class="social-icon">
+                <span class="social-text">Skype Call</span>
+            </span>
+        </a>
+		
     <?php endif; ?>
 
 </div>

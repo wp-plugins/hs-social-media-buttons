@@ -92,6 +92,14 @@
                                         </tr>
 										<tr>
                                             <td>
+                                                <label for="hssocial_skype">Skype ID</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_skype" id="hssocial_skype" type="text" value="" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
                                                 <label for="hssocial_instagram">Instagram URL</label>
                                             </td>
                                             <td>
@@ -121,7 +129,7 @@
                                             <td>
                                                 <input name="hssocial_tumblr" id="hssocial_tumblr" type="text" value="" class="regular-text" />
                                             </td>
-                                        </tr>
+                                        </tr>										
                                     </table>
                                     <table cellpadding="5" cellspacing="5">
                                         <tr>
@@ -245,6 +253,14 @@
                                             </td>
                                             <td>
                                                 <input name="hssocial_mail" id="hssocial_mail" type="text" value="<?php echo $hssocial_mail; ?>" class="regular-text" />
+                                            </td>
+                                        </tr>
+										<tr>
+                                            <td>
+                                                <label for="hssocial_skype">Skype ID</label>
+                                            </td>
+                                            <td>
+                                                <input name="hssocial_skype" id="hssocial_skype" type="text" value="<?php echo $hssocial_skype; ?>" class="regular-text" />
                                             </td>
                                         </tr>
 										<tr>
